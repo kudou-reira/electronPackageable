@@ -1,3 +1,5 @@
+electron-react-redux-boilerplate fork tailored for personal preference
+
 # electron-react-redux-boilerplate
 
 A minimal boilerplate to get started with [Electron](http://electron.atom.io/), [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/).
